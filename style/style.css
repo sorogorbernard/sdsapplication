@@ -1,0 +1,150 @@
+
+
+
+.body-img{
+    height: 100%;
+    width: 100%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/urf.jpg);
+    
+   /* margin-left: 200px; */
+
+    /* background-color: rgb(240, 236, 236);  */
+}
+.table{
+
+    background-color: blue;
+    color: white;
+}
+
+body label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px
+    ;
+}
+
+body form{
+    margin-left: 400px;
+   
+}
+.input1{
+ position: relative;
+    margin-left: 150px;
+}
+.input2{
+    position: relative;
+    margin-left: 130px;
+}
+.input3{
+    position: relative;
+    margin-left: 55px;
+}
+.input4{
+    position: relative;
+    margin-left: 150px;
+}
+.input5{
+    position: relative;
+    margin-left: 145px;
+}
+.input6{
+    position: relative;
+    margin-left: 160px;
+}
+.input7{
+    position: relative;
+    margin-left: 140px;
+}
+.input8{
+    position: relative;
+    margin-left: 42px;
+}
+footer{
+    background-color: rgb(187, 5, 5);
+height: 30px;
+position: relative;
+bottom: 15px;
+    
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+    color: black;
+    position: relative;
+    top: 10px;
+}
+header div img{
+    width: 60px;
+    margin-left: 100px;
+}
+header div p{
+    font-size: 20px;
+   
+}
+
+.row col img{
+    width: 60px;
+}
+.col2{
+  float: right;
+  position: relative;
+  bottom: 120px;
+  
+}
+.col2 h1{
+    margin-right: 100px;
+    color: red;
+    position: relative;
+    bottom: 15px;
+}
+.liste{
+    
+    border-radius: 50px;
+    font-size: 15px;
+    padding: 5px;
+    width: 108px;
+    background-color: blue;
+    margin-left: 600px;
+    position: relative;
+    bottom: 30px;
+    color: white;
+}
+.ajouter{
+    border-radius: 50px;
+    background-color: blue;
+    color: white;
+}
+
+a{
+    color: rgb(15, 15, 15);
+    text-decoration: none;
+}
+.flèche{
+    max-width: 40px;
+    color: blue;
+}
+label{
+    color: white;
+    
+}
+
+/* form{
+    position: relative;
+    bottom: 15px;
+} */
+form h1{
+    color:blue;
+    font-size: 40px;
+
+}
+form p{
+    color:white;
+    font-size: 30px;
+    
+}
+
+/* footer codep */
+
+
